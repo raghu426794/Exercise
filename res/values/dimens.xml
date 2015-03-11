@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="basic_padding">16sp</dimen>
+    <dimen name="row_image_width">75dp</dimen>
+    <dimen name="row_image_heigth">75dp</dimen>
+    
+    <!-- Fonts -->
+    <dimen name="text_size_xsmall">12sp</dimen>
+    <dimen name="text_size_small">13sp</dimen>
+    <dimen name="text_size_medium">16sp</dimen>
+    <dimen name="text_size_large">20sp</dimen>
+    
+</resources>

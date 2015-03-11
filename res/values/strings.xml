@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Excercise</string>
+    <string name="network_error">Error Occured, try after sometime</string>
+    <string name="no_network">No Network</string>
+    <string name="msg_pleasewait">Please Wait..</string>
+
+</resources>
